@@ -1,4 +1,13 @@
 .App {
   text-align: center;
-  display: flex;
+  display: block;
+  margin: 0;
+  background: rgb(250,149,194);
+  background: linear-gradient(153deg, rgba(250,149,194,1) 0%, rgba(170,73,152,1) 33%, rgba(96,3,113,1) 100%);
 }
+.Container{
+  width: 70%;
+  padding: 20px;
+  margin: 0 auto;
+}
+
